@@ -1,2 +1,2 @@
 # Hello_World
-just some random stuff
+just figuring out how to use github
